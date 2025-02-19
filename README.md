@@ -19,7 +19,7 @@ This is a **React-based web application** that includes:
 
 ### 1️ Clone the Repository  
 ```sh
-git clone https://github.com/tanishkapatidar/React-Assignment/react-web-app.git
+git clone https://github.com/tanishkapatidar/React-Assignment.git
 cd react-web-app 
 ```
 ### 2 Install Dependencies
