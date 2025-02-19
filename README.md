@@ -1,46 +1,47 @@
-# Getting Started with Create React App
+#  React Web Application  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a **React-based web application** that includes:  
+✅ A Counter Component  
+✅ A User Data Form using Redux Toolkit  
+✅ A Rich Text Editor for User Data  
+✅ A Dashboard with Animated Charts (React Spring)  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Features  
+- Counter with background color animation  
+- User form with auto-generated ID and unsaved changes warning (using Redux Toolkit)  
+- Rich text editor with formatting options  
+- Dashboard with animated charts and profile visualization  
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Installation & Setup  
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### 1️ Clone the Repository  
+```sh
+git clone https://github.com/tanishkapatidar/React-Assignment/react-web-app.git
+cd react-web-app 
+```
+### 2 Install Dependencies
+  npm install
+### 3 Start Dev Server
+  npm start
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Versions :
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+  React (^18.2.0)
+  
+  ReactDOM (^18.2.0)
+  
+  TypeScript (^5.2.2)
+  
+  Redux Toolkit (^1.9.0)
+  
+  React Router (^6.11.2)
+  
+  Material UI (^5.15.10)
+  
+  React Spring (^9.8.0)
+  
+  Recharts (^2.7.2)
